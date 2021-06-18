@@ -1,4 +1,4 @@
-# .id Front-end challenge
+# Location Decisions Front-end challenge
 
 ## Description
 Render a map and display supplied Polygons. Once polygons have been rendered, apply the supplied fill colour to each polygon.
@@ -12,8 +12,8 @@ Render a map and display supplied Polygons. Once polygons have been rendered, ap
 ---
 
 ## Tools to use
-Javascript frameworks --> AngularJs or Angular 2 onwards
-Mapping tool --> Leaflet (https://leafletjs.com/)
+- Javascript frameworks --> AngularJs or Angular 2 onwards
+- Mapping tool --> Leaflet (https://leafletjs.com/)
 
 ---
 
