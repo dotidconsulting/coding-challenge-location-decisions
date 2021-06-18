@@ -20,10 +20,6 @@ Render a map and display supplied Polygons. Once polygons have been rendered, ap
 ## Helpers
 Here is the method to decode the polygon points in the shapes array within the geo json endpoint. It will return an array of Latitude, Longitude objects
 
-```
-<script src="https://gist.github.com/Zir01/5107362ae7ea2b1290ff184cee935faa.js"></script>
-```
-
 https://gist.github.com/Zir01/9ce6c17f8d773b2f23d5c8410b0c6e19#file-decodepoints-js
 
 
