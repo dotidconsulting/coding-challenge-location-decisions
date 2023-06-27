@@ -48,7 +48,10 @@ Import and transform supplied ABS Census data into a database and serve through 
   - Sex (ex. Males/Females/Persons)
   - Population
 - Write at least one test to verify valid response from one of the end points
+  
 Here is a sample of the JSON result: https://gist.github.com/Zir01/5107362ae7ea2b1290ff184cee935faa#file-pop_data
+
+Here is a sample of the "DIFF" JSON result: https://gist.github.com/Zir01/97757f3ce41bf438f09c6fdab328d1c5#file-pop_data_diff
 
 
 
